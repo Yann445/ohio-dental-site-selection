@@ -1,0 +1,11 @@
+location_a,location_b,score_a,score_b,winner,advantages_a,advantages_b
+Lewis Center,Sawmill Rd,81.0,79.4,Lewis Center,Less competition (253 fewer providers); Better market gap (100.0 vs 47.4),"Larger catchment (+37,734)"
+Lewis Center,Westerville,81.0,74.2,Lewis Center,"Higher income ($1,886); Less competition (250 fewer providers); Better market gap (100.0 vs 43.3)","Larger catchment (+29,337)"
+Lewis Center,Hamilton Rd,81.0,69.8,Lewis Center,"Higher income ($6,498); Less competition (68 fewer providers); Better market gap (100.0 vs 71.6)","Larger catchment (+44,449)"
+Lewis Center,Indianola Ave,81.0,60.0,Lewis Center,"Higher income ($9,409); Less competition (580 fewer providers); Better market gap (100.0 vs 0.0)","Larger catchment (+152,163)"
+Sawmill Rd,Westerville,79.4,74.2,Sawmill Rd,"Higher income ($1,886)",No significant advantage
+Sawmill Rd,Hamilton Rd,79.4,69.8,Sawmill Rd,"Higher income ($6,498)",Less competition (185 fewer providers); Better market gap (71.6 vs 47.4)
+Sawmill Rd,Indianola Ave,79.4,60.0,Sawmill Rd,"Higher income ($9,409); Less competition (327 fewer providers); Better market gap (47.4 vs 0.0)","Larger catchment (+114,429)"
+Westerville,Hamilton Rd,74.2,69.8,Westerville,"Higher income ($4,612)",Less competition (182 fewer providers); Better market gap (71.6 vs 43.3)
+Westerville,Indianola Ave,74.2,60.0,Westerville,"Higher income ($7,523); Less competition (330 fewer providers); Better market gap (43.3 vs 0.0)","Larger catchment (+122,826)"
+Hamilton Rd,Indianola Ave,69.8,60.0,Hamilton Rd,"Higher income ($2,911); Less competition (512 fewer providers); Better market gap (71.6 vs 0.0)","Larger catchment (+107,714)"

@@ -1,0 +1,31 @@
+location_name,age_group,population,pct_of_total
+Ontario,0-14,35930,17.9
+Ontario,15-17,7995,4.0
+Ontario,18-24,16617,8.3
+Ontario,25-64,100138,49.9
+Ontario,65+,40170,20.0
+Westerville,0-14,297693,19.6
+Westerville,15-17,59999,3.9
+Westerville,18-24,144410,9.5
+Westerville,25-64,819484,53.8
+Westerville,65+,201085,13.2
+Sawmill Rd,0-14,296567,19.4
+Sawmill Rd,15-17,59989,3.9
+Sawmill Rd,18-24,144580,9.4
+Sawmill Rd,25-64,826376,54.0
+Sawmill Rd,65+,203556,13.3
+Lewis Center,0-14,291603,19.5
+Lewis Center,15-17,58331,3.9
+Lewis Center,18-24,142400,9.5
+Lewis Center,25-64,805021,53.9
+Lewis Center,65+,195979,13.1
+Indianola Ave,0-14,324133,19.7
+Indianola Ave,15-17,64806,3.9
+Indianola Ave,18-24,151612,9.2
+Indianola Ave,25-64,885509,53.8
+Indianola Ave,65+,219437,13.3
+Hamilton Rd,0-14,301964,19.6
+Hamilton Rd,15-17,60841,4.0
+Hamilton Rd,18-24,144868,9.4
+Hamilton Rd,25-64,828272,53.9
+Hamilton Rd,65+,201838,13.1

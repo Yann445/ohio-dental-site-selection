@@ -1,0 +1,31 @@
+scenario,location,score,rank
+Base (30/30/25/15),Lewis Center,81.0,1
+Base (30/30/25/15),Sawmill Rd,79.4,2
+Base (30/30/25/15),Westerville,74.2,3
+Base (30/30/25/15),Hamilton Rd,69.8,4
+Base (30/30/25/15),Indianola Ave,60.0,5
+Base (30/30/25/15),Ontario,25.0,6
+Competition+ (25/25/40/10),Lewis Center,74.7,1
+Competition+ (25/25/40/10),Sawmill Rd,68.9,2
+Competition+ (25/25/40/10),Westerville,65.0,3
+Competition+ (25/25/40/10),Hamilton Rd,64.5,4
+Competition+ (25/25/40/10),Indianola Ave,47.7,5
+Competition+ (25/25/40/10),Ontario,40.0,6
+Income+ (20/45/25/10),Lewis Center,83.0,1
+Income+ (20/45/25/10),Sawmill Rd,80.2,2
+Income+ (20/45/25/10),Westerville,74.4,3
+Income+ (20/45/25/10),Hamilton Rd,67.1,4
+Income+ (20/45/25/10),Indianola Ave,53.5,5
+Income+ (20/45/25/10),Ontario,25.0,6
+Population+ (45/25/20/10),Lewis Center,82.9,1
+Population+ (45/25/20/10),Sawmill Rd,81.9,2
+Population+ (45/25/20/10),Westerville,77.8,3
+Population+ (45/25/20/10),Hamilton Rd,74.5,4
+Population+ (45/25/20/10),Indianola Ave,67.7,5
+Population+ (45/25/20/10),Ontario,20.0,6
+Equal (25/25/25/25),Sawmill Rd,79.8,1
+Equal (25/25/25/25),Lewis Center,79.6,2
+Equal (25/25/25/25),Westerville,73.6,3
+Equal (25/25/25/25),Hamilton Rd,69.1,4
+Equal (25/25/25/25),Indianola Ave,61.6,5
+Equal (25/25/25/25),Ontario,25.0,6

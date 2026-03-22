@@ -1,0 +1,85 @@
+location_name,specialty,radius,count
+Ontario,General Dentistry,15min,84
+Ontario,Pediatric Dentistry,15min,6
+Ontario,Orthodontics,15min,4
+Ontario,Oral & Maxillofacial Surgery,15min,8
+Ontario,Endodontics,15min,2
+Ontario,Periodontics,15min,1
+Ontario,Prosthodontics,15min,2
+Ontario,General Dentistry,30min,132
+Ontario,Pediatric Dentistry,30min,6
+Ontario,Orthodontics,30min,7
+Ontario,Oral & Maxillofacial Surgery,30min,8
+Ontario,Endodontics,30min,2
+Ontario,Periodontics,30min,2
+Ontario,Prosthodontics,30min,2
+Westerville,General Dentistry,15min,742
+Westerville,Pediatric Dentistry,15min,24
+Westerville,Orthodontics,15min,48
+Westerville,Oral & Maxillofacial Surgery,15min,45
+Westerville,Endodontics,15min,39
+Westerville,Periodontics,15min,48
+Westerville,Prosthodontics,15min,37
+Westerville,General Dentistry,30min,1579
+Westerville,Pediatric Dentistry,30min,67
+Westerville,Orthodontics,30min,100
+Westerville,Oral & Maxillofacial Surgery,30min,77
+Westerville,Endodontics,30min,63
+Westerville,Periodontics,30min,60
+Westerville,Prosthodontics,30min,46
+Sawmill Rd,General Dentistry,15min,727
+Sawmill Rd,Pediatric Dentistry,15min,29
+Sawmill Rd,Orthodontics,15min,50
+Sawmill Rd,Oral & Maxillofacial Surgery,15min,48
+Sawmill Rd,Endodontics,15min,43
+Sawmill Rd,Periodontics,15min,47
+Sawmill Rd,Prosthodontics,15min,43
+Sawmill Rd,General Dentistry,30min,1554
+Sawmill Rd,Pediatric Dentistry,30min,66
+Sawmill Rd,Orthodontics,30min,104
+Sawmill Rd,Oral & Maxillofacial Surgery,30min,75
+Sawmill Rd,Endodontics,30min,63
+Sawmill Rd,Periodontics,30min,59
+Sawmill Rd,Prosthodontics,30min,46
+Lewis Center,General Dentistry,15min,582
+Lewis Center,Pediatric Dentistry,15min,22
+Lewis Center,Orthodontics,15min,38
+Lewis Center,Oral & Maxillofacial Surgery,15min,36
+Lewis Center,Endodontics,15min,27
+Lewis Center,Periodontics,15min,17
+Lewis Center,Prosthodontics,15min,11
+Lewis Center,General Dentistry,30min,1539
+Lewis Center,Pediatric Dentistry,30min,65
+Lewis Center,Orthodontics,30min,96
+Lewis Center,Oral & Maxillofacial Surgery,30min,74
+Lewis Center,Endodontics,30min,61
+Lewis Center,Periodontics,30min,60
+Lewis Center,Prosthodontics,30min,46
+Indianola Ave,General Dentistry,15min,1022
+Indianola Ave,Pediatric Dentistry,15min,42
+Indianola Ave,Orthodontics,15min,56
+Indianola Ave,Oral & Maxillofacial Surgery,15min,56
+Indianola Ave,Endodontics,15min,45
+Indianola Ave,Periodontics,15min,51
+Indianola Ave,Prosthodontics,15min,42
+Indianola Ave,General Dentistry,30min,1649
+Indianola Ave,Pediatric Dentistry,30min,72
+Indianola Ave,Orthodontics,30min,105
+Indianola Ave,Oral & Maxillofacial Surgery,30min,77
+Indianola Ave,Endodontics,30min,66
+Indianola Ave,Periodontics,30min,60
+Indianola Ave,Prosthodontics,30min,46
+Hamilton Rd,General Dentistry,15min,655
+Hamilton Rd,Pediatric Dentistry,15min,22
+Hamilton Rd,Orthodontics,15min,42
+Hamilton Rd,Oral & Maxillofacial Surgery,15min,27
+Hamilton Rd,Endodontics,15min,31
+Hamilton Rd,Periodontics,15min,19
+Hamilton Rd,Prosthodontics,15min,6
+Hamilton Rd,General Dentistry,30min,1581
+Hamilton Rd,Pediatric Dentistry,30min,66
+Hamilton Rd,Orthodontics,30min,94
+Hamilton Rd,Oral & Maxillofacial Surgery,30min,76
+Hamilton Rd,Endodontics,30min,62
+Hamilton Rd,Periodontics,30min,60
+Hamilton Rd,Prosthodontics,30min,44

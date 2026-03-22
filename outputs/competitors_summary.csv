@@ -1,0 +1,7 @@
+location_id,location_name,total_15min,general_15min,pediatric_15min,ortho_15min,oral_surgery_15min,endo_15min,perio_15min,prostho_15min,dso_15min,group_15min,solo_15min,total_30min,general_30min,pediatric_30min,ortho_30min,oral_surgery_30min,endo_30min,perio_30min,prostho_30min,dso_30min,group_30min,solo_30min
+1,Ontario,109,84,6,4,8,2,1,2,2,31,76,163,132,6,7,8,2,2,2,4,45,114
+2,Westerville,986,742,24,48,45,39,48,37,35,175,776,1995,1579,67,100,77,63,60,46,103,384,1508
+3,Sawmill Rd,989,727,29,50,48,43,47,43,38,176,775,1970,1554,66,104,75,63,59,46,100,389,1481
+4,Lewis Center,736,582,22,38,36,27,17,11,35,173,528,1944,1539,65,96,74,61,60,46,101,379,1464
+5,Indianola Ave,1316,1022,42,56,56,45,51,42,55,224,1037,2078,1649,72,105,77,66,60,46,108,408,1562
+6,Hamilton Rd,804,655,22,42,27,31,19,6,50,195,559,1986,1581,66,94,76,62,60,44,105,380,1501
