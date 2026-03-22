@@ -94,8 +94,6 @@ ohio-dental-site-selection/
 | [SimpleMaps US ZIP Database](https://simplemaps.com/data/us-zips) | Current | ~1,232 Ohio ZIPs | Geographic centroids for distance calculations |
 | Candidate Locations | Provided | 6 addresses | Geocoded lat/lon for all distance calculations |
 
-> **Note:** Raw data files are not tracked in this repository due to size. Download instructions are in `data/raw/README_data.md`.
-
 ---
 
 ## Methodology
